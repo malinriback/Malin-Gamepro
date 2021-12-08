@@ -1,8 +1,6 @@
 this is a recipe
 Add 3 sausages
-<<<<<<< HEAD
 Remove 1 potato
 Peel the carrots
-=======
 and then 5 more
->>>>>>> 8761269a2b8c966cb7083cfc536eb0bfb385ee25
+
